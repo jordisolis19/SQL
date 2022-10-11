@@ -14,4 +14,6 @@ You can use the links below to review SQL projects I've created. This list is ar
 
 5.- Customer Database : https://github.com/jordisolis19/SQLTree/blob/main/Customer%20Statistics
 
-6.-  https://github.com/jordisolis19/SQLTree/blob/main/Store%20Inventory%20-%20Database%20%26%20Stats
+6.-  Store Database: https://github.com/jordisolis19/SQLTree/blob/main/Store%20Inventory%20-%20Database%20%26%20Stats
+
+#Thank you for visiting. You can also review my Tableau portfolio here: https://github.com/jordisolis19/Tableau
