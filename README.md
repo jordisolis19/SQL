@@ -1,8 +1,10 @@
 # SQL Portfolio - By Jordi Solis
 
-Welcome to my SQL Portfolio.
 
-You can use the links below to review SQL projects I've created. This list is arranged with the most recent projects at the top (showcasing my current skill level) and then moving on to older projects to show my progression. Please reach out with any questions. I would be happy to discuss my qualifications and skills.
+Welcome to my portfolio!
+You can use the links below to explore my SQL projects. This list is arranged to reflect my journey through the Break into Tech Certificate, with the first entry showcasing my final project and the last entry highlighting where I started. I completed the certificate in 2022 and am currently advancing my skills through a more intensive program with Tripleten.
+
+
 
 1.- Music Store Database: https://github.com/jordisolis19/SQLTree/blob/main/Music%20Store%20Database-%20Final%20Project-
 
