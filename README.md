@@ -2,7 +2,8 @@
 
 
 Welcome to my portfolio!
-You can use the links below to explore my SQL projects. This list is arranged to reflect my journey through the Break into Tech Certificate, with the first entry showcasing my final project and the last entry highlighting where I started. I completed the certificate in 2022 and am currently advancing my skills through a more intensive program with Tripleten.
+
+You can use the links below to explore some of my SQL projects. This list is arranged to reflect my journey through my growth in SQL, with the first entry showcasing my final project and the last entry highlighting where I started. I am constantly practicing and learning new SQL skills!
 
 
 
