@@ -1,10 +1,16 @@
 # SQL Portfolio - By Jordi Solis
 
+Welcome to my SQL Portfolio!
 
-Welcome to my portfolio!
+I'm Jordi Solis, a Business Operations professional transitioning into Business Intelligence and Data Analytics. Here, you'll find a curated collection of my SQL projects that reflect my journey in mastering data manipulation, analysis, and storytelling.
 
-You can use the links below to explore some of my SQL projects. This list is arranged to reflect my journey through my growth in SQL, with the first entry showcasing my final project and the last entry highlighting where I started. I am constantly practicing and learning new SQL skills!
+This portfolio is arranged to showcase my growth: starting with my most  advanced work (like the Music Database Analysis) and moving toward my foundational projects. Each piece demonstrates my evolving ability to transform complex data into actionable insights—whether it's optimizing sales strategies, identifying trends, or solving business problems.
 
+I'm constantly expanding my SQL toolkit and have recently completed a TripleTen Certification in Business inteligence. I will be working on adding my newest projects here and I would love to connect if you have feedback, collaboration ideas, or just want to talk data!
+
+Explore the projects below to see how I've progressed from writing basic queries to tackling multi-table joins, subqueries, and performance optimization. And stay tuned—I'm always adding more as I learn.
+
+Happy analyzing!
 
 
 1.- Music Store Database: https://github.com/jordisolis19/SQLTree/blob/main/Music%20Store%20Database-%20Final%20Project-
