@@ -1,3 +1,4 @@
+
 # SQL Portfolio - By Jordi Solis
 
 Welcome to my SQL Portfolio!
@@ -9,6 +10,8 @@ This portfolio is arranged to showcase my growth: starting with my most  advance
 I'm constantly expanding my SQL toolkit and have recently completed a TripleTen Certification in Business inteligence. I will be working on adding my newest projects here and I would love to connect if you have feedback, collaboration ideas, or just want to talk data!
 
 Explore the projects below to see how I've progressed from writing basic queries to tackling multi-table joins, subqueries, and performance optimization. And stay tuned—I'm always adding more as I learn.
+
+You can reach me at solis.jordi19@gmail.com
 
 Happy analyzing!
 
@@ -26,3 +29,5 @@ Happy analyzing!
 6.-  Store Database: https://github.com/jordisolis19/SQLTree/blob/main/Store%20Inventory%20-%20Database%20%26%20Stats
 
 #Thank you for visiting. You can also review my Tableau portfolio here: https://public.tableau.com/app/profile/jordi.solis/vizzes
+
+
