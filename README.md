@@ -18,4 +18,4 @@ You can use the links below to explore my SQL projects. This list is arranged to
 
 6.-  Store Database: https://github.com/jordisolis19/SQLTree/blob/main/Store%20Inventory%20-%20Database%20%26%20Stats
 
-#Thank you for visiting. You can also review my Tableau portfolio here: https://github.com/jordisolis19/Tableau #
+#Thank you for visiting. You can also review my Tableau portfolio here: https://public.tableau.com/app/profile/jordi.solis/vizzes
